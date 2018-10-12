@@ -4,5 +4,5 @@ proyecto de una IA en la cual se tomen datos del trafico en las ciudades, con es
   
   el dataset que se está pensado utilizar es: https://www.datos.gov.co/Transporte/Horario-de-transporte-p-blico/x4nh-4eat
   
-  integrantes ALEJANDRO RAMIREZ  -  DAVID VILLABONA ARTDILA
+  integrantes ALEJANDRO RAMIREZ 2152779 -  DAVID VILLABONA ARTDILA 2122910
 
